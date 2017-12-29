@@ -57,5 +57,19 @@
 	</snapshotRepository>
 
 </distributionManagement>
+	 <distributionManagement>
+	<repository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http://52.66.106.91:8081/nexus/content/repositories/release/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http://34.201.103.22:8080/nexus/content/repositories/snapshot/</url>
+	</snapshotRepository>
+
+</distributionManagement>
   
 </project>
