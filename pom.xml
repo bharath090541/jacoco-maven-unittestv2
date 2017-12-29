@@ -57,13 +57,5 @@
 	</snapshotRepository>
 
 </distributionManagement>
-	 <distributionManagement>
-	<repository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/release/</url>
-	</repository>
-
-</distributionManagement>
   
 </project>
